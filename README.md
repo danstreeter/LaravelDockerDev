@@ -9,7 +9,7 @@ Make sure you have Docker installed
 Run:
 
 ```bash
-./setup-project-docker.sh
+./start-project-docker.sh
 ```
 
 Note - if you want to change your database settings, do so now... (see `docker-compose.yml`)
